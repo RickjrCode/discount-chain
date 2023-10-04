@@ -1,1 +1,1 @@
-# discount-chain
+Workshop: Discount Chain
